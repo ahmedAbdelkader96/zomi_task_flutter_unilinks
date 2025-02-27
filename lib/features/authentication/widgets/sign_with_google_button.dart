@@ -8,7 +8,7 @@ import 'package:task/features/authentication/widgets/auth_custom_button.dart';
 import 'package:task/global/methods_helpers_functions/local_storage_helper.dart';
 import 'package:task/global/methods_helpers_functions/toast.dart';
 import 'package:task/global/navigation_routes/routes.dart';
-import 'package:uni_links/uni_links.dart';
+import 'package:uni_links5/uni_links.dart';
 import '../bloc/auth_bloc.dart';
 
 class SignWithGoogleButton extends StatefulWidget {
